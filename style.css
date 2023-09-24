@@ -1,0 +1,8 @@
+/* Import website font */
+@import url("https://fonts.googleapis.com/css2?family=Mooli&display=swap");
+/* Apply styles */
+body {
+	background-color: #394144;
+	color: #bec7d8;
+	font-family: 'Mooli', sans-serif;
+}

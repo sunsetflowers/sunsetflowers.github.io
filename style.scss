@@ -1,0 +1,11 @@
+/* Import website font */
+@import url('https://fonts.googleapis.com/css2?family=Mooli&display=swap');
+/* Define website background and text color */
+$bgcolor: #394144;
+$textcolor: #bec7d8;
+/* Apply styles */
+body {
+    background-color: $bgcolor;
+    color: $textcolor;
+    font-family: 'Mooli', sans-serif;
+}
